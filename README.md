@@ -10,3 +10,14 @@ Atualmente estou tentando focar mais em minha vida academica, sempre procurando 
 - Aprender Rapido
 - Jogar Volei
 - [Comunicação](https://www.fm2s.com.br/blog/comunicacao)
+
+### Meu Primeiro Programa
+O código abaixo é um clássico "Olá Mundo!" na linguagem c, usando a função `printf()`.
+```
+#include <stdio.h>
+
+
+int main(){
+    printf("Olá Mundo!");
+    return 0;
+}
